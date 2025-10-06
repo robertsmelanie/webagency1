@@ -105,7 +105,7 @@ form {
 input,
 textarea {
     padding: 1rem;
-    border: 1px solid #ccc;
+    border: 5px solid #ccc;
     border-radius: 5px;
     resize: vertical;
 }
